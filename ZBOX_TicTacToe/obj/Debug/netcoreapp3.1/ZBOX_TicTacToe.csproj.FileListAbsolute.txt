@@ -1,0 +1,11 @@
+C:\Users\kyleg\source\repos\ZBOX_TicTacToe\ZBOX_TicTacToe\bin\Debug\netcoreapp3.1\ZBOX_TicTacToe.exe
+C:\Users\kyleg\source\repos\ZBOX_TicTacToe\ZBOX_TicTacToe\bin\Debug\netcoreapp3.1\ZBOX_TicTacToe.deps.json
+C:\Users\kyleg\source\repos\ZBOX_TicTacToe\ZBOX_TicTacToe\bin\Debug\netcoreapp3.1\ZBOX_TicTacToe.runtimeconfig.json
+C:\Users\kyleg\source\repos\ZBOX_TicTacToe\ZBOX_TicTacToe\bin\Debug\netcoreapp3.1\ZBOX_TicTacToe.runtimeconfig.dev.json
+C:\Users\kyleg\source\repos\ZBOX_TicTacToe\ZBOX_TicTacToe\bin\Debug\netcoreapp3.1\ZBOX_TicTacToe.dll
+C:\Users\kyleg\source\repos\ZBOX_TicTacToe\ZBOX_TicTacToe\bin\Debug\netcoreapp3.1\ZBOX_TicTacToe.pdb
+C:\Users\kyleg\source\repos\ZBOX_TicTacToe\ZBOX_TicTacToe\obj\Debug\netcoreapp3.1\ZBOX_TicTacToe.csprojAssemblyReference.cache
+C:\Users\kyleg\source\repos\ZBOX_TicTacToe\ZBOX_TicTacToe\obj\Debug\netcoreapp3.1\ZBOX_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\kyleg\source\repos\ZBOX_TicTacToe\ZBOX_TicTacToe\obj\Debug\netcoreapp3.1\ZBOX_TicTacToe.AssemblyInfo.cs
+C:\Users\kyleg\source\repos\ZBOX_TicTacToe\ZBOX_TicTacToe\obj\Debug\netcoreapp3.1\ZBOX_TicTacToe.dll
+C:\Users\kyleg\source\repos\ZBOX_TicTacToe\ZBOX_TicTacToe\obj\Debug\netcoreapp3.1\ZBOX_TicTacToe.pdb
